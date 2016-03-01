@@ -1,0 +1,2 @@
+# Sfift
+no on LAN
